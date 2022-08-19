@@ -3,6 +3,8 @@ package practice;
 import java.util.Stack;
 
 public class Stack01 {
+//	Q: Adding an element at bottom of the stack. | Reversing a stack. 
+	
 	private static void pushAtBottomRecursive(int data, Stack<Integer> s) {
 		if (s.isEmpty()) {
 			s.push(data);
