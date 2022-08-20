@@ -1,4 +1,4 @@
-package dsa;
+package DataStructures;
 
 import java.util.ArrayList;
 import java.util.Queue;

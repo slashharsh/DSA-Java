@@ -1,4 +1,4 @@
-package dsa;
+package DataStructures;
 
 import java.nio.file.spi.FileSystemProvider;
 import java.util.HashMap;

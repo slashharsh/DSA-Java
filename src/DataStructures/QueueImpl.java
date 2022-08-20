@@ -1,4 +1,4 @@
-package dsa;
+package DataStructures;
 
 public class QueueImpl {
 	static class Queue {

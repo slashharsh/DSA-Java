@@ -1,4 +1,4 @@
-package dsa;
+package DataStructures;
 
 import java.util.HashSet;
 import java.util.Iterator;
